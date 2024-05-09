@@ -1,4 +1,4 @@
-![image](https://github.com/KANDEEL00/Task-Management-App/assets/89147029/02273460-d27f-4c61-b53d-680631cb1353)### Task Management Application
+### Task Management Application
 
 Welcome to our Task Management Application! This application aims to simplify task organization and management for users. Below are the key features and functionalities:
 
